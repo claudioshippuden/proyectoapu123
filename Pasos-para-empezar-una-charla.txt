@@ -1,0 +1,4 @@
+1)Saludar
+2)Preguntar el nombre.
+3)Preguntar, Como esta la persona.
+4)Decir, chau.
