@@ -1,0 +1,4 @@
+1) prender
+2) apagar
+3) desenchufar
+4)fin...
